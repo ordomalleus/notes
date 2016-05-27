@@ -1,0 +1,12 @@
+/.idea
+/.git
+
+
+
+/node_modules
+/resources
+/storage
+/test
+
+.env
+.env.example
